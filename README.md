@@ -5,7 +5,6 @@
 
 - 📄 Know about my experiences [https://shorturl.asia/ygD8Z](https://shorturl.asia/ygD8Z)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
