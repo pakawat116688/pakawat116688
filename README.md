@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **pakawatpenpoom@gmail.com**
 
-<!-- - 📄 Know about my experiences <a href="https://www.canva.com/design/DAEy3316YFA/wqfTlgID4Sb_eMKauBdD5g/view?utm_content=DAEy3316YFA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"> My Resume</a> -->
 
 
 
