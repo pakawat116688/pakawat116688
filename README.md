@@ -5,7 +5,6 @@
  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakawat116688&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakawat116688&theme=dracula)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakawat116688&show_icons=true&theme=synthwave)  -->
@@ -13,11 +12,12 @@
 
  
  </div>
-
-- 💻 Formerly working as **Junior Information security engineer at MFEC**
+- 💻 Formerly working as **Junior Software Engineer (DevOps) at Sirisoft**
 - 💻 Formerly working as **Junior Go Developer at Piror Solution**
+- 💻 Formerly working as **Junior Information security engineer at MFEC**
 
-- 🔭 I'm looking for a job as **DevOps, SRE, System Engineer** 
+
+- 🔭 I'm looking for a job as **DevOps, SRE** 
 
 - 📫 How to reach me **pakawatpenpoom@gmail.com**
 
