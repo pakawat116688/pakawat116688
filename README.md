@@ -12,8 +12,11 @@
 
  
  </div>
+ 
 - 💻 Formerly working as **Junior Software Engineer (DevOps) at Sirisoft**
+- 
 - 💻 Formerly working as **Junior Go Developer at Piror Solution**
+- 
 - 💻 Formerly working as **Junior Information security engineer at MFEC**
 
 
